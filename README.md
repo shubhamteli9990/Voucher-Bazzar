@@ -25,6 +25,8 @@ All the login details are provided inside the project folder, check that out and
 4. avaliable vouchers:-
 ![4](https://github.com/user-attachments/assets/030de62d-d3fc-4b94-9ed7-09607bb52756)
 
-5. Purchase Voucher:-
+5. Add to card Voucher:-
 ![5](https://github.com/user-attachments/assets/33af65d5-ad28-4021-a3d9-dc06846d12e4)
 
+6. purchase Voucher:-
+![Screenshot 2025-04-22 225813](https://github.com/user-attachments/assets/0eced508-4e28-4169-a518-f771085783ef)
